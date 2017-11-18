@@ -1,0 +1,103 @@
+html {
+	background-image: url('../images/background.jpg');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 16px;
+	align-content: center;
+}
+
+body {
+	
+}
+
+header {
+	background-color: #f0bce9;
+	width: 450px;
+	padding: 10px; 
+	margin: 10px;
+	font-style: bold;
+	font-size: 28px;
+	text-align: center;
+	margin-left: 155px;
+	border-radius: 25px;
+}
+
+div {
+
+}
+
+p {
+
+}
+
+.info {
+	background-color: #f0bce9;
+	width: 450px;
+	padding: 10px;
+	margin: 10px;
+	margin-left: 155px;
+	border-radius: 25px;
+}
+
+
+
+.randomNumber {
+	background-color: #f0bce9;
+	width: 450px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 155px;
+	border-radius: 25px;
+}
+
+.product {
+	font-size: 20px;
+	text-align: center;
+}
+
+.wonLost {
+	background-color: #f0bce9;
+	width: 450px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 155px;
+	border-radius: 25px;
+}
+
+.crystalGems {
+	display: inline-flex;
+	
+
+}
+
+.crystal {
+	height:150px; 
+	width:150px;
+	border: 1px;
+	border-style: solid;
+	color: grey;
+	margin: 20px;
+}
+
+.message {
+	background-color: #f0bce9;
+	width: 450px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 155px;
+	border-radius: 25px;
+
+}
+.score {
+	font-size: 20px;
+	text-align: center;
+}
